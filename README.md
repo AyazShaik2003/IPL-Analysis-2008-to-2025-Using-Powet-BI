@@ -108,6 +108,8 @@ Each table is cleaned, standardized, and relationally connected for dynamic filt
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](images/ipl-dashboard.png)
+## 📷 Dashboard Preview
+![Dashboard Preview](https://raw.githubusercontent.com/AyazShaik2003/IPL-Analysis-2008-to-2025-Using-Powet-BI/main/Dashboard%20Pictures/IPL%20Analysis.png)
+
 
 --
